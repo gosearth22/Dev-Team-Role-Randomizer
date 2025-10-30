@@ -1,0 +1,2 @@
+# Daily Notes
+Last week's infrastructure change due to unforeseen latency spike
